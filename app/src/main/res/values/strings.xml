@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment One</string>
+    <string name="menu_reset">reset</string>
+    <string name="txtLabel">No Clicks Yet</string>
+    <string name="btnRegisterClick">Register a Click</string>
+    <string name="btnToggleImage">Toggle Image</string>
+    <string name="imageViewDescription">one cute dog</string>
+    <string name="clickedTimes">Clicked %d times.</string>
+</resources>
